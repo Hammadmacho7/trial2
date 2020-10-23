@@ -16,6 +16,13 @@ public class Main {
         return sub;
     }
 
+    public static int division(int num1, int num2){
+        int div = num1 / num2;
+        return div;
+    }
+
+
+
     public static void main(String[] args) {
 	// write your code here
 
@@ -23,6 +30,7 @@ public class Main {
         int num2 = 8;
 
         System.out.println( "multiplication " + multiplication(num1, num2));
+        System.out.println(" addition: " + summation(num1, num2));
 
     }
 }
