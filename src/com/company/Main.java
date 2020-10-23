@@ -16,6 +16,13 @@ public class Main {
         return sub;
     }
 
+    public static int division(int num1, int num2){
+        int div = num1 / num2;
+        return div;
+    }
+
+
+
     public static void main(String[] args) {
 	// write your code here
 
