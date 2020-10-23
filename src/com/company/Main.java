@@ -32,5 +32,6 @@ public class Main {
         System.out.println( "multiplication " + multiplication(num1, num2));
         System.out.println(" addition: " + summation(num1, num2));
         System.out.println(" subtraction: " + subtraction( num1, num2));
+        System.out.println(" Division: " + division(num1, num2));
     }
 }
