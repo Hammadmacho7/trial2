@@ -11,6 +11,11 @@ public class Main {
         return sum;
     }
 
+    public static int subtraction(int num1, int num2){
+        int sub = num1 - num2;
+        return sub;
+    }
+
     public static void main(String[] args) {
 	// write your code here
 
