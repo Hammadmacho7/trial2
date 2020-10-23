@@ -12,5 +12,7 @@ public class Main {
         int num1 = 4;
         int num2 = 8;
 
+        System.out.println( "multiplication " + multiplication(num1, num2));
+
     }
 }
